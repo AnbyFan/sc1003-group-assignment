@@ -1,5 +1,5 @@
-# sc1003-group-assignment
-This is a sample SC1003 Group Assignment in Jupyter Notebook that I made in 2024.
+# NTU sc1003-group-assignment
+This is a sample of the SC1003 Group Assignment in Jupyter Notebook that I made in 2024 in Nanyang Technological University.
 All files are included to run in a Windows environment.
 - This readme can also be found in the .ipynb file provided.
 > NOTE THAT ALL IMAGES are only inside the Jupyter Notebook file.
